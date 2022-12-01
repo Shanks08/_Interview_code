@@ -1,0 +1,26 @@
+<!-- Create a Secure REST API in Node.js  Database : MySql or Mongo db  -->
+
+Create APIs Create user for Signup Form
+
+Include Fields like 
+First Name*
+Middle Name
+Last Name*
+Age* (Numbers – 2 digits
+only)
+Email id ( Check valid email id )
+Residential Address
+ House No. /
+Name*
+Street
+City\*
+ State (Automatic)Country (Automatic)
+Username(only
+Alphabet)
+Password ( Secure (min 10 character | min 2 special character | min to
+Numbers)
+
+
+Get list of all the enrolled users
+
+Auto approve Login to Authenticated user
